@@ -1,0 +1,1 @@
+{"name":"Local: polycarp","url":"d:\\Coding\\CP\\CSES\\polycarp.cpp","tests":[{"id":1703254824986,"input":"7\nlollipops\nstringology\nabracadabra\ncodeforces\ntest\nf\nwjffhzw","output":"2\n4\n3\n4\n1\n1\n2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\CP\\CSES\\polycarp.cpp","group":"local","local":true}

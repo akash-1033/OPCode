@@ -1,0 +1,1 @@
+{"name":"Local: chess","url":"d:\\Coding\\CP\\CSES\\chess.cpp","tests":[{"id":1704606417193,"input":"6\nADAAAA","output":"Anton"},{"id":1704606950429,"input":"7\nDDDAADA","output":""},{"id":1704606960844,"input":"6\nDADADA","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\CP\\CSES\\chess.cpp","group":"local","local":true}

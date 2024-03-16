@@ -1,0 +1,1 @@
+{"name":"Local: caps","url":"d:\\Coding\\CP\\CSES\\caps.cpp","tests":[{"id":1703143271018,"input":"1\n3 2\n3 2 4","output":"Caps"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\CP\\CSES\\caps.cpp","group":"local","local":true}

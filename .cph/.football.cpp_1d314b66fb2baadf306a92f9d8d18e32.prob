@@ -1,0 +1,1 @@
+{"name":"Local: football","url":"d:\\Coding\\CP\\CSES\\football.cpp","tests":[{"id":1702647155056,"input":"001001","output":"NO"},{"id":1702647202998,"input":"1000000001","output":"YES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\CP\\CSES\\football.cpp","group":"local","local":true}

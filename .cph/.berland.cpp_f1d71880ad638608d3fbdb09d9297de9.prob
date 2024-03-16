@@ -1,0 +1,1 @@
+{"name":"Local: berland","url":"d:\\Coding\\CP\\CSES\\berland.cpp","tests":[{"id":1704474861314,"input":"code\nedoc","output":"YES"},{"id":1704474882497,"input":"abb\naba","output":"NO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\CP\\CSES\\berland.cpp","group":"local","local":true}

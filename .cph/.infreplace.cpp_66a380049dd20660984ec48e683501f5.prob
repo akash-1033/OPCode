@@ -1,0 +1,1 @@
+{"name":"Local: infreplace","url":"d:\\Coding\\CP\\CSES\\infreplace.cpp","tests":[{"id":1703260373647,"input":"3\naaaa\na\naa\nabc\na\nb","output":"1\n-1\n2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\CP\\CSES\\infreplace.cpp","group":"local","local":true}

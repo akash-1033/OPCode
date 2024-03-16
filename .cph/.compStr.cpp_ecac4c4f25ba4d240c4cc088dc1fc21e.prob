@@ -1,0 +1,1 @@
+{"name":"Local: compStr","url":"d:\\Coding\\CP\\CSES\\compStr.cpp","tests":[{"id":1702743254519,"input":"4\n4\n<<>>\n4\n>><<\n5\n>>>>>\n7\n<><><><","output":"3\n3\n6\n2"},{"id":1702743619119,"input":"1\n8\n><>>><<>","output":"4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\CP\\CSES\\compStr.cpp","group":"local","local":true}

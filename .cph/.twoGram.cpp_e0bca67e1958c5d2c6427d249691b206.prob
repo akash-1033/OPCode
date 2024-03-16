@@ -1,0 +1,1 @@
+{"name":"Local: twoGram","url":"d:\\Coding\\CP\\CSES\\twoGram.cpp","tests":[{"id":1703078873897,"input":"7\nABACABA","output":"AB"},{"id":1703078904019,"input":"5\nZZZAA","output":"ZZ"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\CP\\CSES\\twoGram.cpp","group":"local","local":true}

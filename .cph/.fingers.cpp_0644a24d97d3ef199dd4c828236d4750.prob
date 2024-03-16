@@ -1,0 +1,1 @@
+{"name":"Local: fingers","url":"d:\\Coding\\CP\\CSES\\fingers.cpp","tests":[{"id":1703172411411,"input":"2\n3 5","output":"3"},{"id":1703172417562,"input":"1\n2","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\CP\\CSES\\fingers.cpp","group":"local","local":true}

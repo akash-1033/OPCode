@@ -1,0 +1,1 @@
+{"name":"Local: evodd","url":"d:\\Coding\\CP\\CSES\\evodd.cpp","tests":[{"id":1702651612106,"input":"10 3","output":"5"},{"id":1702651626973,"input":"7 7","output":"6"},{"id":1702652446716,"input":"8 4","output":"7"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\CP\\CSES\\evodd.cpp","group":"local","local":true}

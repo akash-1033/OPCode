@@ -1,0 +1,1 @@
+{"name":"Local: vic","url":"d:\\Coding\\CP\\CSES\\vic.cpp","tests":[{"id":1704080768503,"input":"2\n4\n3 -4 5\n11\n-30 12 -57 7 0 -81 -68 41 -89 0","output":"-4\n265"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\CP\\CSES\\vic.cpp","group":"local","local":true}

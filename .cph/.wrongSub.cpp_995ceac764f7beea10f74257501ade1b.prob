@@ -1,0 +1,1 @@
+{"name":"Local: wrongSub","url":"d:\\Coding\\CP\\CSES\\wrongSub.cpp","tests":[{"id":1703913569645,"input":"512 4","output":"50"},{"id":1703914446496,"input":"1000000000 9","output":"1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\CP\\CSES\\wrongSub.cpp","group":"local","local":true}

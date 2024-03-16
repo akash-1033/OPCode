@@ -1,0 +1,1 @@
+{"name":"Local: arithm","url":"d:\\Coding\\CP\\CSES\\arithm.cpp","tests":[{"id":1703406881627,"input":"2\n10\n3","output":"60"},{"id":1703406902817,"input":"1\n2\n3","output":"9"},{"id":1703406980267,"input":"1\n1\n1","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\CP\\CSES\\arithm.cpp","group":"local","local":true}

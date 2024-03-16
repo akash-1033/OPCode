@@ -1,0 +1,1 @@
+{"name":"Local: coins","url":"d:\\Coding\\CP\\CSES\\coins.cpp","tests":[{"id":1704011896413,"input":"4\n5 3\n6 1\n7 4\n8 8","output":"YES\nYES\nNO\nYES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\CP\\CSES\\coins.cpp","group":"local","local":true}

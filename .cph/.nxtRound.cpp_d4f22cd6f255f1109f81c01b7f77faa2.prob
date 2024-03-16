@@ -1,0 +1,1 @@
+{"name":"Local: nxtRound","url":"d:\\Coding\\CP\\CSES\\nxtRound.cpp","tests":[{"id":1702638038472,"input":"8 5\n10 9 8 7 7 7 5 5","output":"6"},{"id":1702638085199,"input":"4 2\n0 0 0 0","output":"0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\CP\\CSES\\nxtRound.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: spend","url":"d:\\Coding\\CP\\CSES\\spend.cpp","tests":[{"id":1704212086988,"input":"6\n1\n10\n19\n9876\n12345\n1000000000","output":"1\n11\n21\n10973\n13716\n1111111111"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\CP\\CSES\\spend.cpp","group":"local","local":true}

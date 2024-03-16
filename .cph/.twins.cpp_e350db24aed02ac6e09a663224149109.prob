@@ -1,0 +1,1 @@
+{"name":"Local: twins","url":"d:\\Coding\\CP\\CSES\\twins.cpp","tests":[{"id":1702648065875,"input":"3\n2 1 2","output":"2"},{"id":1702648078505,"input":"2\n3 3","output":"2"},{"id":1702648592758,"input":"5\n1 1 3 8 8","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\CP\\CSES\\twins.cpp","group":"local","local":true}

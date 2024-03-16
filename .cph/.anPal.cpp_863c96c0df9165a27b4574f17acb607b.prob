@@ -1,0 +1,1 @@
+{"name":"Local: anPal","url":"d:\\Coding\\CP\\CSES\\anPal.cpp","tests":[{"id":1704540680486,"input":"3\ncodedoc\ngg\naabaa","output":"YES\nNO\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\CP\\CSES\\anPal.cpp","group":"local","local":true}

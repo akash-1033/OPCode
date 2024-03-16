@@ -1,0 +1,1 @@
+{"name":"Local: palindrome","url":"d:\\Coding\\CP\\CSES\\palindrome.cpp","tests":[{"id":1703695498799,"input":"fccfk","output":"NO"},{"id":1703696036353,"input":"glxlg","output":"YES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\CP\\CSES\\palindrome.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: insomnia","url":"d:\\Coding\\CP\\CSES\\insomnia.cpp","tests":[{"id":1704478519114,"input":"1\n2\n3\n4\n12","output":"12"},{"id":1704478531757,"input":"2\n3\n4\n5\n24","output":"17"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\CP\\CSES\\insomnia.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: !zeroes","url":"d:\\Coding\\CP\\CSES\\!zeroes.cpp","tests":[{"id":1703692079937,"input":"822\n280","output":"NO"},{"id":1703695119612,"input":"110036\n43","output":"YES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\CP\\CSES\\!zeroes.cpp","group":"local","local":true}

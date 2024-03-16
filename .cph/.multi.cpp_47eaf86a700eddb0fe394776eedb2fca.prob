@@ -1,0 +1,1 @@
+{"name":"Local: multi","url":"d:\\Coding\\CP\\CSES\\multi.cpp","tests":[{"id":1703309918384,"input":"10 5","output":"2"},{"id":1703310019820,"input":"6 12","output":"4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\CP\\CSES\\multi.cpp","group":"local","local":true}

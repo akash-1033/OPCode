@@ -1,0 +1,1 @@
+{"name":"Local: word","url":"d:\\Coding\\CP\\CSES\\word.cpp","tests":[{"id":1704285759143,"input":"HoUse","output":"house"},{"id":1704286049121,"input":"ViP","output":"VIP"},{"id":1704286064444,"input":"maTRIx","output":"matrix"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\CP\\CSES\\word.cpp","group":"local","local":true}

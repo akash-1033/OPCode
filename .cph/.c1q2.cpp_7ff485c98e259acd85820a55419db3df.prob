@@ -1,0 +1,1 @@
+{"name":"Local: c1q2","url":"d:\\Coding\\CP\\CSES\\c1q2.cpp","tests":[{"id":1703774537747,"input":"3\nABC\nC?B\nBCA\nBCA\nCA?\nABC\n?AB\nBCA\nABC","output":"A\nB\nC"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\CP\\CSES\\c1q2.cpp","group":"local","local":true}

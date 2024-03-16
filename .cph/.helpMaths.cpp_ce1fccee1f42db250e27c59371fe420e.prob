@@ -1,0 +1,1 @@
+{"name":"Local: helpMaths","url":"d:\\Coding\\CP\\CSES\\helpMaths.cpp","tests":[{"id":1703003952974,"input":"3+2+1","output":"1+2+3"},{"id":1703003988803,"input":"1+1+3+1+3","output":"1+1+1+3+3"},{"id":1703004012262,"input":"2","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\CP\\CSES\\helpMaths.cpp","group":"local","local":true}

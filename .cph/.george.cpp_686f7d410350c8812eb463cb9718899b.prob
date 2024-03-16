@@ -1,0 +1,1 @@
+{"name":"Local: george","url":"d:\\Coding\\CP\\CSES\\george.cpp","tests":[{"id":1704474331616,"input":"3\n1 10\n0 10\n10 10","output":"2"},{"id":1704474462420,"input":"3\n1 1\n2 2\n3 3","output":"0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\CP\\CSES\\george.cpp","group":"local","local":true}

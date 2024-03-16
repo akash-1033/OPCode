@@ -1,0 +1,1 @@
+{"name":"Local: linetrip","url":"d:\\Coding\\CP\\CSES\\linetrip.cpp","tests":[{"id":1704269348861,"input":"3\n3 7\n1 2 5\n3 6\n1 2 5\n1 10\n7","output":"4\n3\n7"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\CP\\CSES\\linetrip.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: 350A","url":"d:\\Coding\\CP\\CSES\\350A.cpp","tests":[{"id":1705004468296,"input":"3 6\n4 5 2\n8 9 6 10 7 11","output":"5"},{"id":1705004481586,"input":"3 1\n3 4 5\n6","output":"-1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\CP\\CSES\\350A.cpp","group":"local","local":true}

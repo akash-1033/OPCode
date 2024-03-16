@@ -1,0 +1,1 @@
+{"name":"Local: 112A","url":"d:\\Coding\\CP\\CSES\\112A.cpp","tests":[{"id":1705240669999,"input":"abs\nAbz","output":"-1"},{"id":1705240985565,"input":"aaaa\naaaA","output":"0"},{"id":1705241013147,"input":"abcdefg\nAbCdEfF","output":"1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\CP\\CSES\\112A.cpp","group":"local","local":true}

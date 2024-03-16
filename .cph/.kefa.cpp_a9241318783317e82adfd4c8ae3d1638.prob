@@ -1,0 +1,1 @@
+{"name":"Local: kefa","url":"d:\\Coding\\CP\\CSES\\kefa.cpp","tests":[{"id":1703574522470,"input":"6\n2 2 1 3 4 1","output":"3"},{"id":1703574842465,"input":"3\n2 2 9","output":"3"},{"id":1703575023073,"input":"1\n1","output":"1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\CP\\CSES\\kefa.cpp","group":"local","local":true}
